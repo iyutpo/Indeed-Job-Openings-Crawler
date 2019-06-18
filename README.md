@@ -10,3 +10,6 @@
 * 7. Full-Summary (Full Job Description)
 
 ## Note: You can change "keyword" and "the number of jobs" before running this crawler.
+
+### A sample output is shown as following:
+![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/foo1.png)
